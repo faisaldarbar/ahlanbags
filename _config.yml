@@ -18,15 +18,15 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Faisal Darbar
+title: Ahlan Bags
 
-tagline: Personal Website
+tagline: The Exquisite Bag Store
 
 description: >- # used by seo meta and the atom feed
-  Faisal Darbar's Website.
+  Ahlan Bags Website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://faisaldarbar.com"
+url: "https://ahlanbags.com"
 # Code for Jeyyll Sitemap Plugin
 plugins:
   - jekyll-sitemap
@@ -41,11 +41,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Faisal Darbar
-  email: faisal@faisaldarbar.com # change to your email address
+  email: faisal@ahlanbags.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://faisaldarbar.com
-    - https://www.facebook.com/faisaldarbar
+    - https://ahlanbags.com
+    - https://www.facebook.com/ahlanbags
     - https://www.linkedin.com/in/faisaldarbar
     # Uncomment below to add more social links
     - https://github.com/faisaldarbar # change to your github homepage
@@ -58,7 +58,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-XT32ESQFN6 # fill in your Google Analytics ID
+  id:  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -101,11 +101,11 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: faisaldarbar/faisaldarbar.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJ0DU1A
-    category: Announcements
-    category_id: DIC_kwDOJ0DU1M4CXmEt
-    mapping: title # optional, default to 'pathname'
+    repo:  # <gh-username>/<repo>
+    repo_id: 
+    category: 
+    category_id: 
+    mapping:  # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
