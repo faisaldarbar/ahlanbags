@@ -18,8 +18,8 @@
 - type: twitter
   icon: "fab fa-x-twitter"
 
-# - type: github
-#   icon: "fab fa-github"
+- type: github
+  icon: "fab fa-github"
 
 
 - type: whatsapp
@@ -42,8 +42,8 @@
   icon: 'fas fa-user'   # icons powered by <https://fontawesome.com/>
   url:  'https://faisaldarbar.com'
 
-- type: rss
-  icon: "fas fa-rss"
+# - type: rss
+#   icon: "fas fa-rss"
 
 # Uncomment and complete the url below to enable more contact options
 #
