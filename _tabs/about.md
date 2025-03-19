@@ -6,8 +6,6 @@ order: 1
 
 ![Faisal Darbar](/images/howdy.png)
 
-# About Us 
-
 Welcome to **Ahlan Bags**, your trusted destination for stylish, high-quality bags in **Aurangabad**.  
 
 ## 🏬 Our Journey  
