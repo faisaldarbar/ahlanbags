@@ -21,9 +21,6 @@
 # - type: github
 #   icon: "fab fa-github"
 
-- type: website
-  icon: 'fas fa-user'   # icons powered by <https://fontawesome.com/>
-  url:  'https://faisaldarbar.com'
 
 - type: whatsapp
   icon: 'fab fa-whatsapp'   # icons powered by <https://fontawesome.com/>
@@ -40,6 +37,10 @@
 # - type: reddit
 #   icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
 #   url:  'https://www.reddit.com/user/faisaldarbar'    # Fill with your Link
+
+- type: website
+  icon: 'fas fa-user'   # icons powered by <https://fontawesome.com/>
+  url:  'https://faisaldarbar.com'
 
 - type: rss
   icon: "fas fa-rss"
