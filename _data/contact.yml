@@ -1,15 +1,15 @@
 #  The contact options.
 - type: facebook
   icon: 'fab fa-facebook'   # icons powered by <https://fontawesome.com/>
-  url:  'https://facebook.com/faisaldarbar'   # Fill with your Link
+  url:  'https://facebook.com/ahlanbags'   # Fill with your Link
 
 - type: youtube
   icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.youtube.com/@FaisalDarbar'    # Fill with your Link
+  url:  'https://www.youtube.com/@AhlanBags'    # Fill with your Link
 
 - type: instagram
   icon: 'fab fa-instagram'
-  url: 'https://www.instagram.com/faisal.darbar/'
+  url: 'https://www.instagram.com/ahlanbags/'
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>

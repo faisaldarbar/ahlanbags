@@ -36,6 +36,4 @@ Our collection is carefully selected to ensure **style, quality, and affordabili
 
 We invite you to explore our latest collection at **Roshan Gate, Aurangabad**. Whether you’re looking for a **fashionable handbag**, a **reliable backpack**, or a **professional laptop bag**, we have something for everyone!  
 
-🚀 **Ahlan Bags – Carrying Style Since 2009!**  
-
-Let me know if you'd like any modifications! 😊
+🚀 **Ahlan Bags – Carrying Style Since 2009!**
