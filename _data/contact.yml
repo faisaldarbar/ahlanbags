@@ -21,13 +21,13 @@
 # - type: github
 #   icon: "fab fa-github"
 
+- type: website
+  icon: 'fas fa-user'   # icons powered by <https://fontawesome.com/>
+  url:  'https://faisaldarbar.com'
+
 - type: whatsapp
   icon: 'fab fa-whatsapp'   # icons powered by <https://fontawesome.com/>
   url:  'https://wa.me/919765011119'    # Fill with your Linkedin homepage
-
-- type: website
-  icon: 'fas fa-globe'   # icons powered by <https://fontawesome.com/>
-  url:  'https://faisaldarbar.com'
 
 # - type: telegram
 #   icon: 'fab fa-telegram'   # icons powered by <https://fontawesome.com/>
