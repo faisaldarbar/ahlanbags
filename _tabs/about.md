@@ -32,17 +32,18 @@ Our collection is carefully selected to ensure **style, quality, and affordabili
 
 ## 👤 Meet the Proprietor
 
-Ahlan Bags is proudly owned and operated by **[Faisal Darbar](https://faisaldarbar.com)** — a passionate entrepreneur with a strong foundation in IT, software development, cloud computing, and business management.
+Ahlan Bags is proudly owned and operated by <a href="https://faisaldarbar.com" target="_blank" rel="noopener noreferrer"><strong>Faisal Darbar</strong></a> — a passionate entrepreneur with a strong foundation in IT, software development, cloud computing, and business management.
 
 Faisal is a Microsoft Certified professional, web developer, and business consultant who brings a unique blend of technology and retail experience to the table. His dedication to quality, innovation, and customer satisfaction drives everything we do at Ahlan Bags.
 
-When he's not curating the latest bag collections or serving customers, Faisal explores creative ventures like writing, videography, and content creation. You can learn more about his journey at [faisaldarbar.com](https://faisaldarbar.com).
+When he's not curating the latest bag collections or serving customers, Faisal explores creative ventures like writing, videography, and content creation. You can learn more about his journey at <a href="https://faisaldarbar.com" target="_blank" rel="noopener noreferrer">faisaldarbar.com</a>.
 
 ---
 
 ## ✨ The Ahlan Promise
 
-Led by Faisal’s vision, Ahlan Bags is more than just a store — it’s a commitment to **quality**, **style**, and **integrity**. We're here to help you carry what matters, with confidence and flair.
+Led by Faisal’s vision, Ahlan Bags is more than just a store — it’s a commitment to <strong>quality</strong>, <strong>style</strong>, and <strong>integrity</strong>. We're here to help you carry what matters, with confidence and flair.
+
 
 
 ## 📍 Visit Us Today!  
