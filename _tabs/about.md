@@ -48,6 +48,8 @@ Led by Faisal’s vision, Ahlan Bags is more than just a store — it’s a comm
 
 We invite you to explore our latest collection at **Roshan Gate, Aurangabad**. Whether you’re looking for a **fashionable handbag**, a **reliable backpack**, or a **professional laptop bag**, we have something for everyone!
 
+🚀 **Ahlan Bags – Carrying Style Since 2009!**
+
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.8651471943053!2d75.3423937!3d19.8879154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba32652485417%3A0x7c74a0f47213c988!2sAhlan%20Bags!5e0!3m2!1sen!2sin!4v1751126649574!5m2!1sen!2sin" 
@@ -59,6 +61,3 @@ We invite you to explore our latest collection at **Roshan Gate, Aurangabad**. W
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
-
-
-🚀 **Ahlan Bags – Carrying Style Since 2009!**
