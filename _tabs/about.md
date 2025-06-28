@@ -63,3 +63,13 @@ We invite you to explore our latest collection at **Roshan Gate, Aurangabad**. W
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
+
+## Contact Us
+
+Get in touch using the links!
+
+<a href="/blog" style="text-decoration: none;">
+        <button style="padding: 0.85rem 1.7rem; font-size: 1rem; background-color: #007BFF; color: white; border: none; border-radius: 6px; cursor: pointer;">
+          Visit the Blog
+        </button>
+      </a>
