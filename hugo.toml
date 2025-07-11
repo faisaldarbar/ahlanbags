@@ -8,9 +8,6 @@ googleAnalytics = "G-YCMQXTYSX6"
 [pagination]
   pagerSize = 10
 
-[pagination]
-  pagerSize = 10
-
 [params]
   env = "production"
   author = "Ahlan Bags"
