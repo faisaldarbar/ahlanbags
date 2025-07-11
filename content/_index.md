@@ -7,4 +7,8 @@ hideTitle = true
 
 {{< homemattertop >}}
 
+{{< aboutbutton >}}
+
+{{< homematterbottom >}}
+
 {{< blogbutton >}}
