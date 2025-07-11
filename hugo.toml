@@ -21,7 +21,6 @@ googleAnalytics = "G-YCMQXTYSX6"
   ShowSearch = true
   ShowSocialIcons = true
   ShowCodeCopyButtons = true
-  ShowShareButtons = true
   ShowPostIcons = true
   ShowFeaturedImageInList = true
   ShowFeaturedImageInPost = true
