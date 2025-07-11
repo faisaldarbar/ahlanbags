@@ -3,7 +3,7 @@ title = "About"
 
 +++
 
-{{< homeimage >}}
+{{< aboutimage >}}
 
 Welcome to **Ahlan Bags**, your trusted destination for stylish, high-quality bags in **Aurangabad**.  
 
