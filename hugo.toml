@@ -1,7 +1,7 @@
 baseURL = "https://ahlanbags.com/"
 languageCode = "en-us"
 title = "Ahlan Bags"
-theme = "PaperMod"
+theme = "hugo-papermodest"
 
 googleAnalytics = "G-YCMQXTYSX6"
 
