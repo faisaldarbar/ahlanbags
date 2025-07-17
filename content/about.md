@@ -7,7 +7,7 @@ title = "About"
 
 ## 👋 Welcome
 
-Welcome to **Ahlan Bags**, your trusted destination for stylish, high-quality bags in **Aurangabad, Maharashtra**.  
+Welcome to **Ahlan Bags**, your trusted destination for stylish, high-quality bags in **Aurangabad, Maharashtra**... 
 
 ## 🏬 Our Journey  
 
